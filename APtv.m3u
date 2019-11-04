@@ -1,55 +1,133 @@
 #EXTM3U
- 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD",Nat Geo People HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",Nat Geo People HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="Git;APtv",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="Git;APtv",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="Git;APtv",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD",National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",National Geographic HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD",History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",History 2 HD
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Flux;APtv",Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Flux;ON;APtv",Food Network
 http://95.86.32.7:999/food
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/L5irHu2.jpg" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",Kah Lai Toi HD
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cFOHTtD.png" tvg-country="JP" tvg-url="" group-title="NHK;APtv;APtvHD",NHK World HD
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cFOHTtD.png" tvg-country="JP" tvg-url="" group-title="NHK;ON;APtv;APtvHD",NHK World HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;APtv",CNN (US) (Opt-1)
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;APtv",CNN (US) (Opt-2)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="Flux;APtv",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="Flux;APtv",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="Flux;APtv;APtvHD",Sky News (HD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="Flux;APtv",ABC News (AU)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WyUSQok.png" tvg-country="HK" tvg-url="" group-title="Git;APtv;Entertainment",Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WyUSQok.png" tvg-country="HK" tvg-url="" group-title="Git;APtv;Entertainment",Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WyUSQok.png" tvg-country="HK" tvg-url="" group-title="Git;ON;APtv;APtvHD;Entertainment",Star World HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="HK" tvg-url="" group-title="Git;APtv;Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="HK" tvg-url="" group-title="Git;APtv;Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="HK" tvg-url="" group-title="Git;ON;APtv;APtvHD;Movies",Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;ON;APtv;APtvHD;Movies",FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="Git;APtv;APtvHD",Animax HD
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="Git;ON;APtv;APtvHD",Animax HD
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Git;ON;APtv;Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" tvg-country="ID" tvg-url="" group-title="Git;APtv;Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/L5irHu2.jpg" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",Kah Lai Toi HD
+http://61.58.60.230:9319/live/205.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://210.210.155.35/session/fa0aa530-7b79-11e8-b63d-c81f66f89318/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;APtv;News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",Al Jazeera English HD
+http://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-name="ABC News" tvg-language="English" tvg-logo="https://i.imgur.com/xDdHqkh.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Git;ON;APtv;APtvHD;News",ABC News HD
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqhClyl.png" group-title="Flux;APtv",Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Flux;APtv",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Flux;APtv;INDONESIA",Celestial Movies
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-1)
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-2)
-http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-3)
-http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;ON;APtv;APtvHD;Business",Bloomberg TV HD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;ON;APtv",CNN (US) (Opt-1)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;ON;APtv",CNN (US) (Opt-2)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;ON;APtv;News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Fox News-US" tvg-name="Fox News-US" tvg-language="English" tvg-logo="https://i.imgur.com/Xi2vt20.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;ON;APtv;APtvHD;News",FOX News HD
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;APtv;News",Sky News
+http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;APtv;News",Sky News
+http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;APtv;News",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;APtv;APtvHD;News",Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;APtv;APtvHD;News",Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",TVB News Channel
+http://202.40.202.173:8000/main
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Git;ON;APtv;APtvHD;Sport",Fox Sports HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="Flux;APtv;INDONESIA",K Plus (Opt-1)
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="Flux;APtv;INDONESIA",K Plus (Opt-2)
@@ -58,19 +136,24 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vt2s5Tk.png" group-title="Flux;APtv;HONG KONG",Phoenix (Opt-2)
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Flux;APtv",Fox Sports
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" group-title="Flux;APtv;24/7 PLUTO TV",Comedy Central HD
-https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-1)
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-2)
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Flux;APtv;INDONESIA",CinemaWorld (Opt-3)
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM 2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM Okey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM Okey
 http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM Parlimen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM Parlimen
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM Saluran Berita
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM Saluran Berita
 http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-country="MY" tvg-url="" group-title="Git;APtv;APtvHD",RTM Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-country="MY" tvg-url="" group-title="Git;ON;APtv;APtvHD",RTM Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
