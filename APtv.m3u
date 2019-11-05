@@ -104,7 +104,7 @@ http://i.mjh.nz/nz/tv.46.m3u8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://i.imgur.com/idRFfhY.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -118,19 +118,19 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Git;APtv;Business",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Business",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD;Business",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Git;ON;APtv;APtvHD;News",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Git;APtv;APtvHD;News",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;APtv;APtvHD;News",CNA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;APtv;APtvHD;News",Channel NewsAsia HD
 http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-country="SG" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",CNA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-country="SG" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",Channel NewsAsia HD
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;APtv;News",CNA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;APtv;News",Channel NewsAsia
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;ON;APtv",CNN
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
@@ -173,9 +173,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="Git;ON;APtv;APtvHD",Animax HD
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7EKaPtE.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",Disney Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7EKaPtE.png" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD",Disney Junior HD
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Kids",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Kids",Disney Junior HD
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
 
@@ -215,7 +215,7 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Entertainment",MTV Latin HD
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uYOmK3m.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHDMusic",Music Choice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uYOmK3m.jpg" tvg-country="US" tvg-url="" group-title="Git;APtv;APtvHD;Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uYOmK3m.jpg" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Music",Music Choice
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
