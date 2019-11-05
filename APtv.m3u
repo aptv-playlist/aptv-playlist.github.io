@@ -132,9 +132,9 @@ http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Git;APtv;News",Channel NewsAsia
 http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;ON;APtv",CNN
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;APtv",CNN
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Flux;ON;APtv",CNN
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Git;APtv;News",DW English
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
