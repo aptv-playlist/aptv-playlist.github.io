@@ -18,12 +18,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",National Geographic HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",History 2 HD
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-language="Czech" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Git;ON;APtv",Discovery 
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Flux;ON;APtv",Food Network
 http://95.86.32.7:999/food
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD",History 2 HD
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Documentary",DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="Git;APtv;Documentary",CGTN Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="Git;APtv;Documentary",CGTN Documentary
@@ -34,8 +36,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221226509/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="" group-title="Git;APtv;Documentary",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Git;ON;APtv;APtvHD;Documentary",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
 
 
