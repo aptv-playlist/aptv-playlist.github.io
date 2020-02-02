@@ -19,7 +19,7 @@ http://livefr.cgtn.com/1000d/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cFOHTtD.png" tvg-country="JP" tvg-url="" group-title="NHK;ON;APtv;APtvHD",NHK World HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WyUSQok.png" tvg-country="HK" tvg-url="" group-title="Git;ON;APtv;APtvHD;Entertainment",Star World HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="HK" tvg-url="" group-title="Git;ON;APtv;APtvHD;Movies",Star Movies HD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
