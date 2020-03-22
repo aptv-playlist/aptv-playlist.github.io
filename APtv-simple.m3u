@@ -44,7 +44,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-id="Fox News-US" tvg-name="Fox News-US" tvg-language="English" tvg-logo="https://i.imgur.com/Xi2vt20.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Flux;ON;APtvHD;News",FOX News HD
 https://fluxustv.blogspot.com@bit.ly/2t2Dkb2?.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="Git;ON;APtvHD;News",Sky News HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Git;ON;APtvHD;Sport",Fox Sports HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
