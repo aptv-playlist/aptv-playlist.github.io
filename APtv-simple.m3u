@@ -28,7 +28,8 @@ http://61.58.60.230:9319/live/205.m3u8
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" tvg-country="UK" tvg-url="" group-title="Git;ON;APtv;News",BBC World News HD
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="" group-title="Git;ON;APtv;APtvHD;News",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="tv.101002210220" tvg-name="ABC News" tvg-language="English" tvg-logo="https://i.imgur.com/xDdHqkh.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Git;ON;APtvHD;News",ABC News HD
