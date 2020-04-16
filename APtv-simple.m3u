@@ -33,9 +33,9 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-country="SG" tvg-url="" group-title="Git;BWtv;APtv",Channel NewsAsia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",CNN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",CNN
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",FOX News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WBiCDLB.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",FOX News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 
 
