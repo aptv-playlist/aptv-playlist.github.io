@@ -23,3 +23,7 @@ http://203.162.235.41:16918
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",MCOT HD
 http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNdpnUj.png" group-title="THAILAND",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dauuWLp.png" group-title="THAILAND",Smart SME Channel
+https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
