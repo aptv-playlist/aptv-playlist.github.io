@@ -1,28 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",Nat Geo People HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",National Geographic HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-language="Czech" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Git;BWtv;APtv",Discovery 
-http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",History 2 HD
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/TSG6WBy.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Git;BWtv;APtv",CGTN Documentary
-http://livefr.cgtn.com/1000d/prog_index.m3u8
+http://178.132.3.162:88/nat_geo/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cFOHTtD.png" tvg-country="JP" tvg-url="" group-title="Git;BWtv;APtv",NHK World HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" tvg-country="ID" tvg-url="" group-title="Git;BWtv",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/L5irHu2.jpg" tvg-country="MY" tvg-url="" group-title="Git;BWtv",Kah Lai Toi HD
-http://61.58.60.230:9319/live/205.m3u8
 
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Git;BWtv;APtv",CGTN
@@ -34,28 +18,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-country="SG" tvg-url="" group-title="Git;BWtv;APtv",Channel NewsAsia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",CNN
-http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WBiCDLB.png" tvg-country="US" tvg-url="" group-title="Git;BWtv;APtv",FOX News
-https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+http://203.162.235.41:16918
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QTCQ4uT.jpg" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",MCOT HD
-http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/CQYsYBM.png" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",ONE HD
-http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/ANDh44D.png" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",TH Do Channel HD
-https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/5zyWnEz.jpg" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",TH MVTV HD
-https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/apcCpdz.jpg" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",TH MVTV Ch5 HD
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1616935929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/Glr0CJE.png" tvg-country="TH" tvg-url="" group-title="Git;BWtv;APtv",TH NBT Central HD
-http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="Freeview;BWtv",TV1
-https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="Freeview;BWtv",TV2
-https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png" group-title="Freeview;BWtv;APtv",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+http://183.182.100.184/live/mcothd/playlist.m3u8
