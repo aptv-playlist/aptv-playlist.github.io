@@ -18,7 +18,7 @@ http://livefr.cgtn.com/1000d/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cFOHTtD.png" tvg-country="JP" tvg-url="" group-title="Git;BWtv;APtv",NHK World HD
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" tvg-country="ID" tvg-url="" group-title="Git;BWtv",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/L5irHu2.jpg" tvg-country="MY" tvg-url="" group-title="Git;BWtv",Kah Lai Toi HD
